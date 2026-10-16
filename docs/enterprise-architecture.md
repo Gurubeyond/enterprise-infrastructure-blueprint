@@ -150,3 +150,7 @@ A real solution requires workload discovery, technical assessment, security revi
 
 **Maintained by:** GuruBeyond  
 **Focus:** Enterprise infrastructure, architecture, operations and governance
+
+Architecture Diagram
+
+View the Enterprise Infrastructure Reference Architecture for a conceptual overview of the data center, hybrid cloud, security, disaster recovery and IT operations layers.
